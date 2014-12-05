@@ -19,8 +19,8 @@ Pod::Spec.new do |s|
                       DESC
   s.homepage          = 'http://purl.mro.name/ios/librdf'
   s.license           = 'Human Rights License'
-  s.author            = { "Marcus Rohrmoser" => "mrohrmoser@acm.org" }
-  s.source            = { :git => "https://github.com/mro/librdf.ios.git", :tag => s.version.to_s }
+  s.author            = { "Jesper Andersen" => "jandersen@gmail.com" }
+  s.source            = { :git => "https://github.com/jandersen/librdf.ios.git", :tag => s.version.to_s }
   s.documentation_url = 'http://librdf.org/docs/'
   # todo: http://guides.cocoapods.org/syntax/podspec.html#docset_url
 
