@@ -6,7 +6,7 @@
 #
 Pod::Spec.new do |s|
   s.name              = "librdf.ios"
-  s.version           = "2.0"
+  s.version           = "1.0"
   s.summary           = "Redland RDF API and triple stores from https://github.com/dajobe/librdf for iOS."
   s.description       = <<-DESC
                         Brings the 3 libraries
